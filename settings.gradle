@@ -1,3 +1,5 @@
-
+include ':coreui'
+include ':core'
+include ':products'
 include ':app'
 rootProject.name = "DT Test"

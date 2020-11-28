@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ProductDetailsBaseTextView">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:layout_marginStart">@dimen/margin_default</item>
+        <item name="android:layout_marginEnd">@dimen/margin_default</item>
+        <item name="android:layout_marginTop">@dimen/margin_default</item>
+    </style>
+
+    <style name="ProductDetailsPreTextView" parent="ProductDetailsBaseTextView">
+        <item name="android:textColor">@color/textColorSecondary</item>
+    </style>
+
+    <style name="ProductDetailsTextView" parent="ProductDetailsBaseTextView">
+        <item name="android:textColor">@color/textColorPrimary</item>
+    </style>
+</resources>
