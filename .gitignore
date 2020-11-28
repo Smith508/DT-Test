@@ -83,3 +83,21 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+app/.idea/
+**/.idea/
+../.idea/
+**/local.properties/
+app/local.properties/
+**/gradlew.bat/
+**/gradlew.bat
+app/local.properties
+**/ui-debug.log
+**/database-debug.log
+**/gradle-wrapper.properties
