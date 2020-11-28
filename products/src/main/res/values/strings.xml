@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="product_details_pre_app_id">App ID:</string>
+    <string name="product_details_pre_bid_rate">Bid Rate:</string>
+    <string name="product_details_pre_billing_type_id">Billing Type ID:</string>
+    <string name="product_details_pre_call_to_action">Call To Action</string>
+    <string name="product_details_pre_campaign_display_order">Campaign Display Order:</string>
+    <string name="product_details_pre_campaign_id">Campaign ID:</string>
+    <string name="product_details_pre_campaign_type_id">Campaign Type ID:</string>
+    <string name="product_details_pre_creative_id">Creative ID:</string>
+    <string name="product_details_pre_home_screen">Home Screen:</string>
+    <string name="product_details_pre_is_random_pick">Is Random Pick:</string>
+    <string name="product_details_pre_number_of_ratings">Ratings</string>
+    <string name="product_details_pre_description">Description:</string>
+    <string name="product_details_pre_product_id">Product ID:</string>
+    <string name="product_details_pre_downloads">Downloads</string>
+    <string name="product_details_pre_tsti_enabled">TSTI Enabled:</string>
+    <string name="product_details_pre_sti_enabled">STI Enabled:</string>
+    <string name="product_details_pre_impression_tracking_url">Impression Tracking URL:</string>
+</resources>
